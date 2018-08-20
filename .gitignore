@@ -1,7 +1,7 @@
 src/*.exe
-src/cityfamercoin
-src/cityfamercoind
-src/test_cityfamercoin
+src/cityfarmer
+src/cityfarmerd
+src/test_cityfarmer
 .*.swp
 *.*~*
 *.bak
@@ -9,17 +9,17 @@ src/test_cityfamercoin
 *.orig
 *.o
 *.patch
-.cityfamercoin
+.cityfarmer
 
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-cityfamercoin-qt
-Cityfamercoin-Qt.app
+cityfarmer-qt
+Cityfarmer-Qt.app
 
 # Unit-tests
 Makefile.test
-cityfamercoin-qt_test
+cityfarmer-qt_test
 
 # Resources cpp
 qrc_*.cpp

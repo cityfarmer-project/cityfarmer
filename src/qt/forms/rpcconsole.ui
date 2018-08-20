@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Cityfamercoin - Debug window</string>
+   <string>Cityfarmer - Debug window</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout_2">
    <item>
@@ -36,7 +36,7 @@
           </font>
          </property>
          <property name="text">
-          <string>Cityfamercoin Core</string>
+          <string>Cityfarmer Core</string>
          </property>
         </widget>
        </item>
@@ -322,7 +322,7 @@
        <item row="15" column="0">
         <widget class="QPushButton" name="openDebugLogfileButton">
          <property name="toolTip">
-          <string>Open the Cityfamercoin debug log file from the current data directory. This can take a few seconds for large log files.</string>
+          <string>Open the Cityfarmer debug log file from the current data directory. This can take a few seconds for large log files.</string>
          </property>
          <property name="text">
           <string>&amp;Open</string>
@@ -348,7 +348,7 @@
        <item row="17" column="0">
         <widget class="QPushButton" name="showCLOptionsButton">
          <property name="toolTip">
-          <string>Show the Cityfamercoin-Qt help message to get a list with possible Cityfamercoin command-line options.</string>
+          <string>Show the Cityfarmer-Qt help message to get a list with possible Cityfarmer command-line options.</string>
          </property>
          <property name="text">
           <string>&amp;Show</string>

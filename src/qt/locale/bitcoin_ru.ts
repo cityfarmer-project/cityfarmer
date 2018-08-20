@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Cityfamercoin</source>
-        <translation>&amp;О Cityfamercoin</translation>
+        <source>About Cityfarmer</source>
+        <translation>&amp;О Cityfarmer</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Cityfamercoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Cityfamercoin&lt;/b&gt; версия</translation>
+        <source>&lt;b&gt;Cityfarmer&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Cityfarmer&lt;/b&gt; версия</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Cityfamercoin developers</source>
-        <translation>Разработчики Cityfamercoin</translation>
+        <source>The Cityfarmer developers</source>
+        <translation>Разработчики Cityfarmer</translation>
     </message>
 </context>
 <context>
@@ -67,7 +67,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Cityfamercoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Cityfarmer addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Это Ваши адреса для получения платежей. Вы можете дать разные адреса отправителям, чтобы отслеживать, кто именно вам платит.</translation>
     </message>
     <message>
@@ -82,8 +82,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Cityfamercoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом Cityfamercoin</translation>
+        <source>Sign a message to prove you own a Cityfarmer address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом Cityfarmer</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Cityfamercoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Cityfamercoin</translation>
+        <source>Verify a message to ensure it was signed with a specified Cityfarmer address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Cityfarmer</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,7 +122,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Cityfamercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Cityfarmer addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Ваши адреса для получения средств. Совет: проверьте сумму и адрес назначения перед переводом.</translation>
     </message>
     <message>
@@ -248,8 +248,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CITYFAMERCOINS&lt;/b&gt;!</source>
-        <translation>Внимание: если вы зашифруете бумажник и потеряете пароль, вы &lt;b&gt;ПОТЕРЯЕТЕ ВСЕ ВАШИ CITYFAMERCOIN&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CITYFARMERS&lt;/b&gt;!</source>
+        <translation>Внимание: если вы зашифруете бумажник и потеряете пароль, вы &lt;b&gt;ПОТЕРЯЕТЕ ВСЕ ВАШИ CITYFARMER&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -275,8 +275,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Cityfamercoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cityfamercoins from being stolen by malware infecting your computer.</source>
-        <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши Cityfamercoin от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
+        <source>Cityfarmer will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cityfarmers from being stolen by malware infecting your computer.</source>
+        <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши Cityfarmer от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Cityfamercoin</source>
-        <translation>Показать информацию о Cityfamercoin&apos;е</translation>
+        <source>Show information about Cityfarmer</source>
+        <translation>Показать информацию о Cityfarmer&apos;е</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Cityfamercoin address</source>
-        <translation>Отправить монеты на указанный адрес Cityfamercoin</translation>
+        <source>Send coins to a Cityfarmer address</source>
+        <translation>Отправить монеты на указанный адрес Cityfarmer</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Cityfamercoin</source>
-        <translation>Изменить параметры конфигурации Cityfamercoin</translation>
+        <source>Modify configuration options for Cityfarmer</source>
+        <translation>Изменить параметры конфигурации Cityfarmer</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Cityfamercoin</source>
-        <translation>Cityfamercoin</translation>
+        <source>Cityfarmer</source>
+        <translation>Cityfarmer</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Cityfamercoin</source>
-        <translation>&amp;О Cityfamercoin</translation>
+        <source>&amp;About Cityfarmer</source>
+        <translation>&amp;О Cityfarmer</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Cityfamercoin addresses to prove you own them</source>
-        <translation>Подписать сообщения вашим адресом Cityfamercoin, чтобы доказать, что вы им владеете</translation>
+        <source>Sign messages with your Cityfarmer addresses to prove you own them</source>
+        <translation>Подписать сообщения вашим адресом Cityfarmer, чтобы доказать, что вы им владеете</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Cityfamercoin addresses</source>
-        <translation>Проверить сообщения, чтобы удостовериться, что они были подписаны определённым адресом Cityfamercoin</translation>
+        <source>Verify messages to ensure they were signed with specified Cityfarmer addresses</source>
+        <translation>Проверить сообщения, чтобы удостовериться, что они были подписаны определённым адресом Cityfarmer</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,12 +536,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Cityfamercoin client</source>
-        <translation>Cityfamercoin клиент</translation>
+        <source>Cityfarmer client</source>
+        <translation>Cityfarmer клиент</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Cityfamercoin network</source>
+        <source>%n active connection(s) to Cityfarmer network</source>
         <translation><numerusform>%n активное соединение с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform></translation>
     </message>
     <message>
@@ -656,8 +656,8 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Cityfamercoin address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом Cityfamercoin или неправильными параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Cityfarmer address or malformed URI parameters.</source>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом Cityfarmer или неправильными параметрами URI.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Cityfamercoin can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. Cityfamercoin не может безопасно продолжать работу и будет закрыт.</translation>
+        <source>A fatal error occurred. Cityfarmer can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. Cityfarmer не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Cityfamercoin address.</source>
-        <translation>Введённый адрес &quot;%1&quot; не является правильным Cityfamercoin-адресом.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Cityfarmer address.</source>
+        <translation>Введённый адрес &quot;%1&quot; не является правильным Cityfarmer-адресом.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Cityfamercoin-Qt</source>
-        <translation>Cityfamercoin-Qt</translation>
+        <source>Cityfarmer-Qt</source>
+        <translation>Cityfarmer-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Cityfamercoin after logging in to the system.</source>
-        <translation>Автоматически запускать Cityfamercoin после входа в систему</translation>
+        <source>Automatically start Cityfarmer after logging in to the system.</source>
+        <translation>Автоматически запускать Cityfarmer после входа в систему</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Cityfamercoin on system login</source>
-        <translation>&amp;Запускать Cityfamercoin при входе в систему</translation>
+        <source>&amp;Start Cityfarmer on system login</source>
+        <translation>&amp;Запускать Cityfarmer при входе в систему</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Cityfamercoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для Cityfamercoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the Cityfarmer client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для Cityfarmer-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Cityfamercoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Подключаться к сети Cityfamercoin через прокси SOCKS (например, при подключении через Tor).</translation>
+        <source>Connect to the Cityfarmer network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Подключаться к сети Cityfarmer через прокси SOCKS (например, при подключении через Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Cityfamercoin.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска Cityfamercoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Cityfarmer.</source>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска Cityfarmer.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,8 +944,8 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Cityfamercoin addresses in the transaction list or not.</source>
-        <translation>Показывать ли адреса Cityfamercoin в списке транзакций.</translation>
+        <source>Whether to show Cityfarmer addresses in the transaction list or not.</source>
+        <translation>Показывать ли адреса Cityfarmer в списке транзакций.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Cityfamercoin.</source>
-        <translation>Эта настройка вступит в силу после перезапуска Cityfamercoin</translation>
+        <source>This setting will take effect after restarting Cityfarmer.</source>
+        <translation>Эта настройка вступит в силу после перезапуска Cityfarmer</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Cityfamercoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью Cityfamercoin после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Cityfarmer network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью Cityfarmer после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1069,8 +1069,8 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start cityfamercoin: click-to-pay handler</source>
-        <translation>Не удаётся запустить cityfamercoin: обработчик click-to-pay</translation>
+        <source>Cannot start cityfarmer: click-to-pay handler</source>
+        <translation>Не удаётся запустить cityfarmer: обработчик click-to-pay</translation>
     </message>
 </context>
 <context>
@@ -1219,8 +1219,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Cityfamercoin-Qt help message to get a list with possible Cityfamercoin command-line options.</source>
-        <translation>Показать помощь по Cityfamercoin-Qt, чтобы получить список доступных параметров командной строки.</translation>
+        <source>Show the Cityfarmer-Qt help message to get a list with possible Cityfarmer command-line options.</source>
+        <translation>Показать помощь по Cityfarmer-Qt, чтобы получить список доступных параметров командной строки.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Cityfamercoin - Debug window</source>
-        <translation>Cityfamercoin - Окно отладки</translation>
+        <source>Cityfarmer - Debug window</source>
+        <translation>Cityfarmer - Окно отладки</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Cityfamercoin Core</source>
-        <translation>Ядро Cityfamercoin</translation>
+        <source>Cityfarmer Core</source>
+        <translation>Ядро Cityfarmer</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1254,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Cityfamercoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл Cityfamercoin из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
+        <source>Open the Cityfarmer debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный лог-файл Cityfarmer из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1264,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Cityfamercoin RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль Cityfamercoin.</translation>
+        <source>Welcome to the Cityfarmer RPC console.</source>
+        <translation>Добро пожаловать в RPC-консоль Cityfarmer.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1448,8 +1448,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Cityfamercoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введите Cityfamercoin-адрес (например 1LA5FtQhnnWnkK6zjFfutR7Stiit4wKd63)</translation>
+        <source>Enter a Cityfarmer address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Введите Cityfarmer-адрес (например 1LA5FtQhnnWnkK6zjFfutR7Stiit4wKd63)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Cityfamercoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом Cityfamercoin</translation>
+        <source>Sign the message to prove you own this Cityfarmer address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом Cityfarmer</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Cityfamercoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Cityfamercoin</translation>
+        <source>Verify the message to ensure it was signed with the specified Cityfarmer address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Cityfarmer</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Cityfamercoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введите адрес Cityfamercoin (напр. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Cityfarmer address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Введите адрес Cityfarmer (напр. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Cityfamercoin signature</source>
-        <translation>Введите подпись Cityfamercoin</translation>
+        <source>Enter Cityfarmer signature</source>
+        <translation>Введите подпись Cityfarmer</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Cityfamercoin developers</source>
-        <translation>Разработчики Cityfamercoin</translation>
+        <source>The Cityfarmer developers</source>
+        <translation>Разработчики Cityfarmer</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2187,7 +2187,7 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Cityfamercoin version</source>
+        <source>Cityfarmer version</source>
         <translation>Версия</translation>
     </message>
     <message>
@@ -2197,8 +2197,8 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or cityfamercoind</source>
-        <translation>Отправить команду на -server или cityfamercoind</translation>
+        <source>Send command to -server or cityfarmerd</source>
+        <translation>Отправить команду на -server или cityfarmerd</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2218,13 +2218,13 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: cityfamercoin.conf)</source>
-        <translation>Указать конфигурационный файл (по умолчанию: cityfamercoin.conf)</translation>
+        <source>Specify configuration file (default: cityfarmer.conf)</source>
+        <translation>Указать конфигурационный файл (по умолчанию: cityfarmer.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: cityfamercoind.pid)</source>
-        <translation>Задать pid-файл (по умолчанию: cityfamercoin.pid)</translation>
+        <source>Specify pid file (default: cityfarmerd.pid)</source>
+        <translation>Задать pid-файл (по умолчанию: cityfarmer.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2301,24 +2301,24 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=cityfamercoinrpc
+rpcuser=cityfarmerrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Cityfamercoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Cityfarmer Alert&quot; admin@foo.com
 </source>
         <translation>%s, вы должны установить опцию rpcpassword в конфигурационном файле:
  %s
 Рекомендуется использовать следующий случайный пароль:
-rpcuser=cityfamercoinrpc
+rpcuser=cityfarmerrpc
 rpcpassword=%s
 (вам не нужно запоминать этот пароль)
 Имя и пароль ДОЛЖНЫ различаться.
 Если файл не существует, создайте его и установите права доступа только для владельца, только для чтения.
 Также рекомендуется включить alertnotify для оповещения о проблемах;
-Например: alertnotify=echo %%s | mail -s &quot;Cityfamercoin Alert&quot; admin@foo.com
+Например: alertnotify=echo %%s | mail -s &quot;Cityfarmer Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2333,8 +2333,8 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Cityfamercoin is probably already running.</source>
-        <translation>Не удаётся установить блокировку на каталог данных %s.  Возможно, Cityfamercoin уже работает.</translation>
+        <source>Cannot obtain a lock on data directory %s. Cityfarmer is probably already running.</source>
+        <translation>Не удаётся установить блокировку на каталог данных %s.  Возможно, Cityfarmer уже работает.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2378,8 +2378,8 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Cityfamercoin will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, Cityfamercoin будет работать некорректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Cityfarmer will not work properly.</source>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, Cityfarmer будет работать некорректно.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2628,9 +2628,9 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Cityfamercoin Wiki for SSL setup instructions)</source>
+        <source>SSL options: (see the Cityfarmer Wiki for SSL setup instructions)</source>
         <translation>
-Параметры SSL: (см. Cityfamercoin Wiki для инструкций по настройке SSL)</translation>
+Параметры SSL: (см. Cityfarmer Wiki для инструкций по настройке SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2819,13 +2819,13 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cityfamercoin</source>
-        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию Cityfamercoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Cityfarmer</source>
+        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию Cityfarmer</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Cityfamercoin to complete</source>
-        <translation>Необходимо перезаписать бумажник, перезапустите Cityfamercoin для завершения операции.</translation>
+        <source>Wallet needed to be rewritten: restart Cityfarmer to complete</source>
+        <translation>Необходимо перезаписать бумажник, перезапустите Cityfarmer для завершения операции.</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2884,8 +2884,8 @@ rpcpassword=%s
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Cityfamercoin is probably already running.</source>
-        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, Cityfamercoin уже работает.</translation>
+        <source>Unable to bind to %s on this computer. Cityfarmer is probably already running.</source>
+        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, Cityfarmer уже работает.</translation>
     </message>
     <message>
         <location line="+64"/>

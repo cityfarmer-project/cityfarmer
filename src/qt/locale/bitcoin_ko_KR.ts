@@ -103,11 +103,11 @@ MIT/X11 프로그램 라이선스에 따라 배포합니다. COPYING 또는 http
         <translation>받은 주소들</translation>
     </message>
     <message>
-        <source>These are your Cityfamercoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Cityfarmer addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>시티파머코인을 받을 수 있는 내계좌 주소입니다. 매 거래마다 새로운 주소 사용을 권장합니다.</translation>
     </message>
     <message>
-        <source>These are your Cityfamercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Cityfarmer addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>시티파머코인을 받는 상대계좌 주소입니다. 코인을 보내기 전에 잔고와 받는 주소를 항상 확인하세요.</translation>
     </message>
     <message>
@@ -357,7 +357,7 @@ MIT/X11 프로그램 라이선스에 따라 배포합니다. COPYING 또는 http
         <translation>디스크에서 블록 다시 색인중...</translation>
     </message>
     <message>
-        <source>Send coins to a Cityfamercoin address</source>
+        <source>Send coins to a Cityfarmer address</source>
         <translation>시티파머코인 주소로 코인 전송</translation>
     </message>
     <message>
@@ -449,7 +449,7 @@ MIT/X11 프로그램 라이선스에 따라 배포합니다. COPYING 또는 http
         <translation>지불 요청하기 (QR코드와 bitcoin: URI가 생성됩니다)</translation>
     </message>
     <message>
-        <source>Send coins to a Cityfamercoin address</source>
+        <source>Send coins to a Cityfarmer address</source>
         <translation>시티코인 보내기</translation>
     </message>
     <message>
@@ -485,7 +485,7 @@ MIT/X11 프로그램 라이선스에 따라 배포합니다. COPYING 또는 http
         <translation>비트코인 클라이언트</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cityfamercoin network</source>
+        <source>%n active connection(s) to Cityfarmer network</source>
         <translation><numerusform>시티파머코인 네트워크와 %n 개의 활성연결</numerusform></translation>
     </message>
     <message>
@@ -1009,11 +1009,11 @@ Address: %4
         <translation>라우터의 시티파머코인 클라이언트 포트를 자동으로 엽니다. 이 기능은 라우터가 UPnP를 지원하고 활성화 된 경우에만 작동합니다.</translation>
     </message>
    <message>
-        <source>Connect to the Cityfamercoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Cityfarmer network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>SOCKS 프록시를 통해 시티파머코인 네트워크에 연결합니다 (예 : Tor를 통해 연결할 때).</translation>
     </message>
    <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Cityfamercoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Cityfarmer.</source>
         <translation>여기서 사용자 인터페이스 언어를 설정할 수 있습니다. 이 설정은 시티파머코인이 다시 시작한 후에 적용됩니다.</translation>
     </message>
    <message>
@@ -1025,11 +1025,11 @@ Address: %4
         <translation>송금 수수료(&amp;F)</translation>
     </message>
     <message>
-        <source>Automatically start Cityfamercoin after logging in to the system.</source>
+        <source>Automatically start Cityfarmer after logging in to the system.</source>
         <translation>시스템 로그인후에 씨티파머코인을 자동으로 시작합니다.</translation>
     </message>
     <message>
-        <source>&amp;Start Cityfamercoin on system login</source>
+        <source>&amp;Start Cityfarmer on system login</source>
         <translation>시스템 로그인시 씨티파머코인 시작(&amp;S)</translation>
     </message>
     <message>
@@ -1161,7 +1161,7 @@ Address: %4
         <translation>인터페이스에 표시하고 코인을 보낼때 사용할 기본 최소화 단위를 선택하십시오.</translation>
     </message>
     <message>
-        <source>Whether to show Cityfamercoin addresses in the transaction list or not.</source>
+        <source>Whether to show Cityfarmer addresses in the transaction list or not.</source>
         <translation>송금 목록에 비트코인 주소를 표시할지의 여부입니다.</translation>
     </message>
     <message>
@@ -1871,7 +1871,7 @@ Address: %4
         <translation>지급&amp;수신:</translation>
     </message>
     <message>
-        <source>Enter a Cityfamercoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a Cityfarmer address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>시티파머코인을 송금할 지갑 주소 입력하기 (예 : Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
@@ -1985,7 +1985,7 @@ Address: %4
         <translation>여기에 서명하려는 메시지를 입력하십시오</translation>
     </message>
     <message>
-        <source>Enter a Cityfamercoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a Cityfarmer address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>시티파머코인 주소 (예: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
@@ -2045,7 +2045,7 @@ Address: %4
         <translation>서명을 만들려면 "메시지 서명"을 누르십시오</translation>
     </message>
     <message>
-        <source>Enter Cityfamercoin signature</source>
+        <source>Enter Cityfarmer signature</source>
         <translation>시티파머코인 "서명"을 입력하십시오</translation>
     </message>
     <message>

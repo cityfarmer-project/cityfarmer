@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Cityfamercoin</source>
-        <translation>Sobre Cityfamercoin</translation>
+        <source>About Cityfarmer</source>
+        <translation>Sobre Cityfarmer</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Cityfamercoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Cityfamercoin&lt;/b&gt; versió</translation>
+        <source>&lt;b&gt;Cityfarmer&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Cityfarmer&lt;/b&gt; versió</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -29,7 +29,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Cityfamercoin developers</source>
+        <source>The Cityfarmer developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -62,8 +62,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Cityfamercoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces Cityfamercoin per a rebre pagaments. Pot interesar-te proveïr diferents adreces a cadascun dels enviadors així pots identificar qui et va pagant.</translation>
+        <source>These are your Cityfarmer addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces Cityfarmer per a rebre pagaments. Pot interesar-te proveïr diferents adreces a cadascun dels enviadors així pots identificar qui et va pagant.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -77,8 +77,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Cityfamercoin address</source>
-        <translation>Signa el missatge per provar que ets propietari de l&apos;adreça Cityfamercoin</translation>
+        <source>Sign a message to prove you own a Cityfarmer address</source>
+        <translation>Signa el missatge per provar que ets propietari de l&apos;adreça Cityfarmer</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -102,8 +102,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Cityfamercoin address</source>
-        <translation>Verificar un missatge per asegurar-se que ha estat signat amb una adreça Cityfamercoin específica</translation>
+        <source>Verify a message to ensure it was signed with a specified Cityfarmer address</source>
+        <translation>Verificar un missatge per asegurar-se que ha estat signat amb una adreça Cityfarmer específica</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -117,8 +117,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Cityfamercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Aquestes són la seva adreça de Cityfamercoin per enviar els pagaments. Sempre revisi la quantitat i l&apos;adreça del destinatari abans transferència de monedes.</translation>
+        <source>These are your Cityfarmer addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Aquestes són la seva adreça de Cityfarmer per enviar els pagaments. Sempre revisi la quantitat i l&apos;adreça del destinatari abans transferència de monedes.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -243,8 +243,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CITYFAMERCOINS&lt;/b&gt;!</source>
-        <translation>Advertència: Si encripteu el vostre moneder i perdeu la constrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES CITYFAMERCOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CITYFARMERS&lt;/b&gt;!</source>
+        <translation>Advertència: Si encripteu el vostre moneder i perdeu la constrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES CITYFARMERS&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -270,8 +270,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Cityfamercoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cityfamercoins from being stolen by malware infecting your computer.</source>
-        <translation>Cityfamercoin es tancarà ara per acabar el procés d&apos;encriptació. Recorda que encriptar el teu moneder no protegeix completament els teus cityfamercoins de ser robades per programari maliciós instal·lat al teu ordinador.</translation>
+        <source>Cityfarmer will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cityfarmers from being stolen by malware infecting your computer.</source>
+        <translation>Cityfarmer es tancarà ara per acabar el procés d&apos;encriptació. Recorda que encriptar el teu moneder no protegeix completament els teus cityfarmers de ser robades per programari maliciós instal·lat al teu ordinador.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -369,8 +369,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Cityfamercoin</source>
-        <translation>Mostra informació sobre Cityfamercoin</translation>
+        <source>Show information about Cityfarmer</source>
+        <translation>Mostra informació sobre Cityfarmer</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -414,13 +414,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Cityfamercoin address</source>
-        <translation>Enviar monedes a una adreça Cityfamercoin</translation>
+        <source>Send coins to a Cityfarmer address</source>
+        <translation>Enviar monedes a una adreça Cityfarmer</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Cityfamercoin</source>
-        <translation>Modificar les opcions de configuració per cityfamercoin</translation>
+        <source>Modify configuration options for Cityfarmer</source>
+        <translation>Modificar les opcions de configuració per cityfarmer</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -450,8 +450,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Cityfamercoin</source>
-        <translation>Cityfamercoin</translation>
+        <source>Cityfarmer</source>
+        <translation>Cityfarmer</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -475,8 +475,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Cityfamercoin</source>
-        <translation>&amp;Sobre Cityfamercoin</translation>
+        <source>&amp;About Cityfarmer</source>
+        <translation>&amp;Sobre Cityfarmer</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -495,13 +495,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Cityfamercoin addresses to prove you own them</source>
-        <translation>Signa el missatges amb la seva adreça de Cityfamercoin per provar que les poseeixes</translation>
+        <source>Sign messages with your Cityfarmer addresses to prove you own them</source>
+        <translation>Signa el missatges amb la seva adreça de Cityfarmer per provar que les poseeixes</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Cityfamercoin addresses</source>
-        <translation>Verificar els missatges per assegurar-te que han estat signades amb una adreça Cityfamercoin específica.</translation>
+        <source>Verify messages to ensure they were signed with specified Cityfarmer addresses</source>
+        <translation>Verificar els missatges per assegurar-te que han estat signades amb una adreça Cityfarmer específica.</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -531,13 +531,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Cityfamercoin client</source>
-        <translation>Client Cityfamercoin</translation>
+        <source>Cityfarmer client</source>
+        <translation>Client Cityfarmer</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Cityfamercoin network</source>
-        <translation><numerusform>%n connexió activa a la xarxa Cityfamercoin</numerusform><numerusform>%n connexions actives a la xarxa Cityfamercoin</numerusform></translation>
+        <source>%n active connection(s) to Cityfarmer network</source>
+        <translation><numerusform>%n connexió activa a la xarxa Cityfarmer</numerusform><numerusform>%n connexions actives a la xarxa Cityfarmer</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -647,8 +647,8 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Cityfamercoin address or malformed URI parameters.</source>
-        <translation>la URI no pot ser processada! Això es pot ser causat per una adreça Cityfamercoin invalida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Cityfarmer address or malformed URI parameters.</source>
+        <translation>la URI no pot ser processada! Això es pot ser causat per una adreça Cityfarmer invalida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -662,8 +662,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Cityfamercoin can no longer continue safely and will quit.</source>
-        <translation>Ha tingut lloc un error fatal. Cityfamercoin no pot continuar executant-se de manera segura i es tancará.</translation>
+        <source>A fatal error occurred. Cityfarmer can no longer continue safely and will quit.</source>
+        <translation>Ha tingut lloc un error fatal. Cityfarmer no pot continuar executant-se de manera segura i es tancará.</translation>
     </message>
 </context>
 <context>
@@ -728,8 +728,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Cityfamercoin address.</source>
-        <translation>L&apos;adreça introduida &quot;%1&quot; no és una adreça Cityfamercoin valida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Cityfarmer address.</source>
+        <translation>L&apos;adreça introduida &quot;%1&quot; no és una adreça Cityfarmer valida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -747,8 +747,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Cityfamercoin-Qt</source>
-        <translation>Cityfamercoin-Qt</translation>
+        <source>Cityfarmer-Qt</source>
+        <translation>Cityfarmer-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -810,13 +810,13 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Cityfamercoin after logging in to the system.</source>
-        <translation>Iniciar automàticament Cityfamercoin després de l&apos;inici de sessió del sistema.</translation>
+        <source>Automatically start Cityfarmer after logging in to the system.</source>
+        <translation>Iniciar automàticament Cityfarmer després de l&apos;inici de sessió del sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Cityfamercoin on system login</source>
-        <translation>&amp;Iniciar Cityfamercoin al inici de sessió del sistema.</translation>
+        <source>&amp;Start Cityfarmer on system login</source>
+        <translation>&amp;Iniciar Cityfarmer al inici de sessió del sistema.</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -835,8 +835,8 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Cityfamercoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir el port del client de Cityfamercoin al router de forma automàtica. Això només funciona quan el teu router implementa UPnP i l&apos;opció està activada.</translation>
+        <source>Automatically open the Cityfarmer client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir el port del client de Cityfarmer al router de forma automàtica. Això només funciona quan el teu router implementa UPnP i l&apos;opció està activada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -845,8 +845,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Cityfamercoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connectar a la xarxa Cityfamercoin a través de un SOCKS proxy (per exemple connectant a través de Tor).</translation>
+        <source>Connect to the Cityfarmer network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connectar a la xarxa Cityfarmer a través de un SOCKS proxy (per exemple connectant a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -920,8 +920,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Cityfamercoin.</source>
-        <translation>Aquí pots definir el llenguatge de l&apos;aplicatiu. Aquesta configuració tindrà efecte un cop es reiniciï Cityfamercoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Cityfarmer.</source>
+        <translation>Aquí pots definir el llenguatge de l&apos;aplicatiu. Aquesta configuració tindrà efecte un cop es reiniciï Cityfarmer.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -935,8 +935,8 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Cityfamercoin addresses in the transaction list or not.</source>
-        <translation>Mostrar adreces Cityfamercoin als llistats de transaccions o no.</translation>
+        <source>Whether to show Cityfarmer addresses in the transaction list or not.</source>
+        <translation>Mostrar adreces Cityfarmer als llistats de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -987,8 +987,8 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Cityfamercoin.</source>
-        <translation>Aquesta configuració tindrà efecte un cop es reiniciï Cityfamercoin.</translation>
+        <source>This setting will take effect after restarting Cityfarmer.</source>
+        <translation>Aquesta configuració tindrà efecte un cop es reiniciï Cityfarmer.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1006,8 +1006,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Cityfamercoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa Cityfamercoin un cop s&apos;ha establert connexió, però aquest proces no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Cityfarmer network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa Cityfarmer un cop s&apos;ha establert connexió, però aquest proces no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1060,8 +1060,8 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start cityfamercoin: click-to-pay handler</source>
-        <translation>No es pot iniciar cityfamercoin: manejador clicla-per-pagar</translation>
+        <source>Cannot start cityfarmer: click-to-pay handler</source>
+        <translation>No es pot iniciar cityfarmer: manejador clicla-per-pagar</translation>
     </message>
 </context>
 <context>
@@ -1210,8 +1210,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Cityfamercoin-Qt help message to get a list with possible Cityfamercoin command-line options.</source>
-        <translation>Mostrar el missatge d&apos;ajuda de Cityfamercoin-Qt per a obtenir un llistat de possibles ordres per a la línia d&apos;ordres de Cityfamercoin.</translation>
+        <source>Show the Cityfarmer-Qt help message to get a list with possible Cityfarmer command-line options.</source>
+        <translation>Mostrar el missatge d&apos;ajuda de Cityfarmer-Qt per a obtenir un llistat de possibles ordres per a la línia d&apos;ordres de Cityfarmer.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1230,13 +1230,13 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Cityfamercoin - Debug window</source>
-        <translation>Cityfamercoin -Finestra de debug</translation>
+        <source>Cityfarmer - Debug window</source>
+        <translation>Cityfarmer -Finestra de debug</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Cityfamercoin Core</source>
-        <translation>Nucli de Cityfamercoin</translation>
+        <source>Cityfarmer Core</source>
+        <translation>Nucli de Cityfarmer</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1245,8 +1245,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Cityfamercoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obrir el dietari de debug de Cityfamercoin del directori de dades actual. Aixó pot trigar uns quants segons per a dietàris grossos.</translation>
+        <source>Open the Cityfarmer debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obrir el dietari de debug de Cityfarmer del directori de dades actual. Aixó pot trigar uns quants segons per a dietàris grossos.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1255,8 +1255,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Cityfamercoin RPC console.</source>
-        <translation>Benvingut a la consola RPC de Cityfamercoin</translation>
+        <source>Welcome to the Cityfarmer RPC console.</source>
+        <translation>Benvingut a la consola RPC de Cityfarmer</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1439,8 +1439,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Cityfamercoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introdueixi una adreça de Cityfamercoin (per exemple Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Cityfarmer address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introdueixi una adreça de Cityfarmer (per exemple Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1504,8 +1504,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Cityfamercoin address</source>
-        <translation>Signa el missatge per provar que ets propietari d&apos;aquesta adreça Cityfamercoin</translation>
+        <source>Sign the message to prove you own this Cityfarmer address</source>
+        <translation>Signa el missatge per provar que ets propietari d&apos;aquesta adreça Cityfarmer</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1540,8 +1540,8 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Cityfamercoin address</source>
-        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça Cityfamercoin específica</translation>
+        <source>Verify the message to ensure it was signed with the specified Cityfarmer address</source>
+        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça Cityfarmer específica</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1556,8 +1556,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Cityfamercoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introdueixi una adreça de Cityfamercoin (per exemple Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Cityfarmer address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introdueixi una adreça de Cityfarmer (per exemple Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1566,8 +1566,8 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Cityfamercoin signature</source>
-        <translation>Introduïr una clau Cityfamercoin</translation>
+        <source>Enter Cityfarmer signature</source>
+        <translation>Introduïr una clau Cityfarmer</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1640,7 +1640,7 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Cityfamercoin developers</source>
+        <source>The Cityfarmer developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2178,8 +2178,8 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Cityfamercoin version</source>
-        <translation>Versió de Cityfamercoin</translation>
+        <source>Cityfarmer version</source>
+        <translation>Versió de Cityfarmer</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2188,8 +2188,8 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or cityfamercoind</source>
-        <translation>Enviar comanda a -servidor o cityfamercoind</translation>
+        <source>Send command to -server or cityfarmerd</source>
+        <translation>Enviar comanda a -servidor o cityfarmerd</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2208,13 +2208,13 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: cityfamercoin.conf)</source>
-        <translation>Especificat arxiu de configuració (per defecte: cityfamercoin.conf)</translation>
+        <source>Specify configuration file (default: cityfarmer.conf)</source>
+        <translation>Especificat arxiu de configuració (per defecte: cityfarmer.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: cityfamercoind.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: cityfamercoind.pid)</translation>
+        <source>Specify pid file (default: cityfarmerd.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: cityfarmerd.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2291,15 +2291,15 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=cityfamercoinrpc
+rpcuser=cityfarmerrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Cityfamercoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Cityfarmer Alert&quot; admin@foo.com
 </source>
-        <translation>%s has de establir una contrasenya RPC a l&apos;arxiu de configuració:\n%s\nEs recomana que useu la següent constrasenya aleatòria:\nrpcuser=cityfamercoinrpc\nrpcpassword=%s\n(no necesiteu recordar aquesta contrsenya)\nEl nom d&apos;usuari i contrasenya NO HAN de ser els mateixos.\nSi l&apos;arxiu no existeix, crea&apos;l amb els permisos d&apos;arxiu de només lectura per al propietari.\nTambé es recomana establir la notificació d&apos;alertes i així seràs notificat de les incidències;\nper exemple: alertnotify=echo %%s | mail -s &quot;Cityfamercoin Alert&quot; admin@foo.com</translation>
+        <translation>%s has de establir una contrasenya RPC a l&apos;arxiu de configuració:\n%s\nEs recomana que useu la següent constrasenya aleatòria:\nrpcuser=cityfarmerrpc\nrpcpassword=%s\n(no necesiteu recordar aquesta contrsenya)\nEl nom d&apos;usuari i contrasenya NO HAN de ser els mateixos.\nSi l&apos;arxiu no existeix, crea&apos;l amb els permisos d&apos;arxiu de només lectura per al propietari.\nTambé es recomana establir la notificació d&apos;alertes i així seràs notificat de les incidències;\nper exemple: alertnotify=echo %%s | mail -s &quot;Cityfarmer Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2313,8 +2313,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Cityfamercoin Alert&quot; admi
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Cityfamercoin is probably already running.</source>
-        <translation>No es pot bloquejar el directori de dades %s. Probablement Cityfamercoin ja estigui en execució.</translation>
+        <source>Cannot obtain a lock on data directory %s. Cityfarmer is probably already running.</source>
+        <translation>No es pot bloquejar el directori de dades %s. Probablement Cityfarmer ja estigui en execució.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2358,8 +2358,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Cityfamercoin Alert&quot; admi
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Cityfamercoin will not work properly.</source>
-        <translation>Advertència: Si us plau comprovi que la data i hora del seu computador siguin correctes! Si el seu rellotge està mal configurat, Cityfamercoin no funcionará de manera apropiada.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Cityfarmer will not work properly.</source>
+        <translation>Advertència: Si us plau comprovi que la data i hora del seu computador siguin correctes! Si el seu rellotge està mal configurat, Cityfarmer no funcionará de manera apropiada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2608,8 +2608,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Cityfamercoin Alert&quot; admi
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Cityfamercoin Wiki for SSL setup instructions)</source>
-        <translation>Opcions SSL: (veure la Wiki de Cityfamercoin per a instruccions de configuració SSL)</translation>
+        <source>SSL options: (see the Cityfarmer Wiki for SSL setup instructions)</source>
+        <translation>Opcions SSL: (veure la Wiki de Cityfarmer per a instruccions de configuració SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2798,13 +2798,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Cityfamercoin Alert&quot; admi
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cityfamercoin</source>
-        <translation>Error carregant wallet.dat: El moneder requereix una versió de Cityfamercoin més moderna</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Cityfarmer</source>
+        <translation>Error carregant wallet.dat: El moneder requereix una versió de Cityfarmer més moderna</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Cityfamercoin to complete</source>
-        <translation>El moneder necesita ser re-escrit: re-inicia Cityfamercoin per a completar la tasca</translation>
+        <source>Wallet needed to be rewritten: restart Cityfarmer to complete</source>
+        <translation>El moneder necesita ser re-escrit: re-inicia Cityfarmer per a completar la tasca</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2863,8 +2863,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Cityfamercoin Alert&quot; admi
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Cityfamercoin is probably already running.</source>
-        <translation>Impossible d&apos;unir %s en aquest ordinador. Probablement Cityfamercoin ja estigui en execució.</translation>
+        <source>Unable to bind to %s on this computer. Cityfarmer is probably already running.</source>
+        <translation>Impossible d&apos;unir %s en aquest ordinador. Probablement Cityfarmer ja estigui en execució.</translation>
     </message>
     <message>
         <location line="+64"/>

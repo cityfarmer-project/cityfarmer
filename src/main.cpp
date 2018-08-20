@@ -19,7 +19,7 @@ using namespace std;
 using namespace boost;
 
 #if defined(NDEBUG)
-# error "Cityfamercoin cannot be compiled without assertions."
+# error "Cityfarmer cannot be compiled without assertions."
 #endif
 
 //
@@ -36,7 +36,7 @@ unsigned int nTransactionsUpdated = 0;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
 uint256 hashGenesisBlock("0x8d3cd2f82627ef38cbf4a3c8e8de1a63c86a09106d8ba846c02ad3b00a399067");
-static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20); // Cityfamercoin: starting difficulty is 1 / 2^12
+static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20); // Cityfarmer: starting difficulty is 1 / 2^12
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
 uint256 nBestChainWork = 0;
@@ -68,7 +68,7 @@ map<uint256, set<uint256> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "Cityfamercoin Signed Message:\n";
+const string strMessageMagic = "Cityfarmer Signed Message:\n";
 
 double dHashesPerSec = 0.0;
 int64 nHPSTimerStart = 0;
@@ -362,7 +362,7 @@ unsigned int LimitOrphanTxSize(unsigned int nMaxOrphans)
 
 bool CTxOut::IsDust() const
 {
-    // Cityfamercoin: IsDust() detection disabled, allows any valid dust to be relayed.
+    // Cityfarmer: IsDust() detection disabled, allows any valid dust to be relayed.
     // The fees imposed on each dust txo is considered sufficient spam deterrant. 
     return false;
 }
@@ -623,7 +623,7 @@ int64 CTransaction::GetMinFee(unsigned int nBlockSize, bool fAllowFree,
             nMinFee = 0;
     }
 
-    // Cityfamercoin
+    // Cityfarmer
     // To limit dust spam, add nBaseFee for each output less than DUST_SOFT_LIMIT
     BOOST_FOREACH(const CTxOut& txout, vout)
         if (txout.nValue < DUST_SOFT_LIMIT)
@@ -1095,13 +1095,13 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
       nSubsidy = 750 * COIN;
 
     // Subsidy is cut in half every 840000 blocks, which will occur approximately every 4 years
-    nSubsidy >>= (nHeight / 840000); // Cityfamercoin: 840k blocks in ~4 years
+    nSubsidy >>= (nHeight / 840000); // Cityfarmer: 840k blocks in ~4 years
 
     return nSubsidy + nFees;
 }
 
-static const int64 nTargetTimespan = 3.5 * 24 * 60 * 60; // Cityfamercoin: 3.5 days
-static const int64 nTargetSpacing = 5 * 60; // Cityfamercoin: 5 minutes
+static const int64 nTargetTimespan = 3.5 * 24 * 60 * 60; // Cityfarmer: 3.5 days
+static const int64 nTargetSpacing = 5 * 60; // Cityfarmer: 5 minutes
 static const int64 nInterval = nTargetTimespan / nTargetSpacing;
 
 //
@@ -1160,7 +1160,7 @@ unsigned int static GetNextWorkRequired(const CBlockIndex* pindexLast, const CBl
         return pindexLast->nBits;
     }
 
-    // Cityfamercoin: This fixes an issue where a 51% attack can change difficulty at will.
+    // Cityfarmer: This fixes an issue where a 51% attack can change difficulty at will.
     // Go back the full period unless it's the first retarget after genesis. Code courtesy of Art Forz
     int blockstogoback = nInterval-1;
     if ((pindexLast->nHeight+1) != nInterval)
@@ -2107,7 +2107,7 @@ bool CBlock::CheckBlock(CValidationState &state, bool fCheckPOW, bool fCheckMerk
     if (vtx.empty() || vtx.size() > MAX_BLOCK_SIZE || ::GetSerializeSize(*this, SER_NETWORK, PROTOCOL_VERSION) > MAX_BLOCK_SIZE)
         return state.DoS(100, error("CheckBlock() : size limits failed"));
 
-    // Cityfamercoin: Special short-term limits to avoid 10,000 BDB lock limit:
+    // Cityfarmer: Special short-term limits to avoid 10,000 BDB lock limit:
     if (GetBlockTime() < 1376568000)  // stop enforcing 15 August 2013 00:00:00
     {
         // Rule is: #unique txids referenced <= 4,500
@@ -3128,7 +3128,7 @@ bool static AlreadyHave(const CInv& inv)
 // The message start string is designed to be unlikely to occur in normal data.
 // The characters are rarely used upper ASCII, not valid as UTF-8, and produce
 // a large 4-byte int at any alignment.
-unsigned char pchMessageStart[4] = { 0xfb, 0xc0, 0xb6, 0xdb }; // Cityfamercoin: increase each by adding 2 to bitcoin's value.
+unsigned char pchMessageStart[4] = { 0xfb, 0xc0, 0xb6, 0xdb }; // Cityfarmer: increase each by adding 2 to bitcoin's value.
 
 
 void static ProcessGetData(CNode* pfrom)
@@ -4178,7 +4178,7 @@ bool SendMessages(CNode* pto, bool fSendTrickle)
 
 //////////////////////////////////////////////////////////////////////////////
 //
-// CityfamercoinMiner
+// CityfarmerMiner
 //
 
 int static FormatHashBlocks(void* pbuffer, unsigned int len)
@@ -4591,7 +4591,7 @@ bool CheckWork(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
         return false;
 
     //// debug print
-    printf("CityfamercoinMiner:\n");
+    printf("CityfarmerMiner:\n");
     printf("proof-of-work found  \n  hash: %s  \ntarget: %s\n", hash.GetHex().c_str(), hashTarget.GetHex().c_str());
     pblock->print();
     printf("generated %s\n", FormatMoney(pblock->vtx[0].vout[0].nValue).c_str());
@@ -4600,7 +4600,7 @@ bool CheckWork(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
     {
         LOCK(cs_main);
         if (pblock->hashPrevBlock != hashBestChain)
-            return error("CityfamercoinMiner : generated block is stale");
+            return error("CityfarmerMiner : generated block is stale");
 
         // Remove key from key pool
         reservekey.KeepKey();
@@ -4614,17 +4614,17 @@ bool CheckWork(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
         // Process this block the same as if we had received it from another node
         CValidationState state;
         if (!ProcessBlock(state, NULL, pblock))
-            return error("CityfamercoinMiner : ProcessBlock, block not accepted");
+            return error("CityfarmerMiner : ProcessBlock, block not accepted");
     }
 
     return true;
 }
 
-void static CityfamercoinMiner(CWallet *pwallet)
+void static CityfarmerMiner(CWallet *pwallet)
 {
-    printf("CityfamercoinMiner started\n");
+    printf("CityfarmerMiner started\n");
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
-    RenameThread("cityfamercoin-miner");
+    RenameThread("cityfarmer-miner");
 
     // Each thread has its own key and counter
     CReserveKey reservekey(pwallet);
@@ -4646,7 +4646,7 @@ void static CityfamercoinMiner(CWallet *pwallet)
         CBlock *pblock = &pblocktemplate->block;
         IncrementExtraNonce(pblock, pindexPrev, nExtraNonce);
 
-        printf("Running CityfamercoinMiner with %"PRIszu" transactions in block (%u bytes)\n", pblock->vtx.size(),
+        printf("Running CityfarmerMiner with %"PRIszu" transactions in block (%u bytes)\n", pblock->vtx.size(),
                ::GetSerializeSize(*pblock, SER_NETWORK, PROTOCOL_VERSION));
 
         //
@@ -4745,7 +4745,7 @@ void static CityfamercoinMiner(CWallet *pwallet)
     } }
     catch (boost::thread_interrupted)
     {
-        printf("CityfamercoinMiner terminated\n");
+        printf("CityfarmerMiner terminated\n");
         throw;
     }
 }
@@ -4770,7 +4770,7 @@ void GenerateBitcoins(bool fGenerate, CWallet* pwallet)
 
     minerThreads = new boost::thread_group();
     for (int i = 0; i < nThreads; i++)
-        minerThreads->create_thread(boost::bind(&CityfamercoinMiner, pwallet));
+        minerThreads->create_thread(boost::bind(&CityfarmerMiner, pwallet));
 }
 
 // Amount compression:

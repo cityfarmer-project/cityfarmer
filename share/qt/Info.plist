@@ -3,7 +3,7 @@
 <plist version="0.9">
 <dict>
 	<key>CFBundleIconFile</key>
-	<string>cityfamercoin.icns</string>
+	<string>cityfarmer.icns</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleGetInfoString</key>
@@ -15,19 +15,19 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>Cityfamercoin-Qt</string>
+	<string>Cityfarmer-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.cityfamercoin.Cityfamercoin-Qt</string>
+	<string>org.cityfarmer.Cityfarmer-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>org.cityfamercoin.CityfamercoinPayment</string>
+            <string>org.cityfarmer.CityfarmerPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
-              <string>cityfamercoin</string>
+              <string>cityfarmer</string>
             </array>
           </dict>
         </array>

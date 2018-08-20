@@ -1,9 +1,9 @@
-Building Cityfamercoin
+Building Cityfarmer
 
-See doc/readme-qt.rst for instructions on building Cityfamercoin-Qt,
+See doc/readme-qt.rst for instructions on building Cityfarmer-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Cityfamercoin.
+implementation of Cityfarmer.
 
-See doc/build-*.txt for instructions on building cityfamercoind,
+See doc/build-*.txt for instructions on building cityfarmerd,
 the intended-for-services, no-graphical-interface, reference
-implementation of Cityfamercoin.
+implementation of Cityfarmer.

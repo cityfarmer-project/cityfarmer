@@ -1,9 +1,9 @@
 0.8.7.5 changes
 =============
-- openssl-1.0.1k or older versions patched for CVE-2014-8275 broke compatibility with Bitcoin and Cityfamercoin.
-  This update patches Cityfamercoin to maintain compatibility with CVE-2014-8275 patched openssl.
-- If you are running v0.8.7.4 as distributed by cityfamercoin.org you do not need to upgrade.
-  The binaries distributed on cityfamercoin.org contain their own copy of openssl so they are unaffected by this issue.
+- openssl-1.0.1k or older versions patched for CVE-2014-8275 broke compatibility with Bitcoin and Cityfarmer.
+  This update patches Cityfarmer to maintain compatibility with CVE-2014-8275 patched openssl.
+- If you are running v0.8.7.4 as distributed by cityfarmer.org you do not need to upgrade.
+  The binaries distributed on cityfarmer.org contain their own copy of openssl so they are unaffected by this issue.
 
 0.8.7.4 changes
 =============
@@ -37,7 +37,7 @@
 - Cleanup of SSE2 scrypt detection.
 
 - Minor fixes:
-  - s/Bitcoin/Cityfamercoin/ in the Coin Control example
+  - s/Bitcoin/Cityfarmer/ in the Coin Control example
   - Fix custom build on MacOS X 10.9
   - Fix QT5 custom build
   - Update Debian build instructions
@@ -56,7 +56,7 @@
 
 - Peers older than protocol version 70002 are disconnected.  0.8.3.7 is the oldest compatible client.
 
-- Internal miner added back to Cityfamercoin.  setgenerate now works, although it is generally a bad idea as it is significantly slower than external CPU miners.
+- Internal miner added back to Cityfarmer.  setgenerate now works, although it is generally a bad idea as it is significantly slower than external CPU miners.
 
 - New RPC commands: getbestblockhash and verifychain
 
@@ -81,13 +81,13 @@
 
 Workaround negative version numbers serialization bug.
 
-Fix out-of-bounds check (Cityfamercoin currently does not use this codepath, but we apply this
+Fix out-of-bounds check (Cityfarmer currently does not use this codepath, but we apply this
 patch just to match Bitcoin 0.8.5.)
 
 0.8.4.1 changes
 ===============
 
-CVE-2013-5700 Bloom: filter crash issue - Cityfamercoin 0.8.3.7 disabled bloom by default so was 
+CVE-2013-5700 Bloom: filter crash issue - Cityfarmer 0.8.3.7 disabled bloom by default so was 
 unaffected by this issue, but we include their patches anyway just in case folks want to 
 enable bloomfilter=1.
 
@@ -98,7 +98,7 @@ CVE-2013-4627: Better fix for the fill-memory-with-orphaned-tx attack
 Fix multi-block reorg transaction resurrection.
 
 Fix non-standard disconnected transactions causing mempool orphans.  This bug could cause 
-nodes running with the -debug flag to crash, although it was lot less likely on Cityfamercoin 
+nodes running with the -debug flag to crash, although it was lot less likely on Cityfarmer 
 as we disabled IsDust() in 0.8.3.x.
 
 Mac OSX: use 'FD_FULLSYNC' with LevelDB, which will (hopefully!) prevent the database 
